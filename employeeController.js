@@ -26,10 +26,10 @@ const addEmployee = (req, res) => {
 	const employeeData = req.body;
 	const employees = JSON.parse(data);
 
-	//append the user data
+	//append the employee data
 	employees.push(employeeData);
 
-	//save the new employeeData
+	//save the new employee data
 	const newEmployee = JSON.stringify(employees);
 	writeFileSync('./data.json', newEmployee);
 
