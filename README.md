@@ -1,6 +1,6 @@
 # employee-directory
 
-employee director web application
+employee directory web application
 
 ## Requirements
 
