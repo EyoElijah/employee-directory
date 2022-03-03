@@ -1,0 +1,23 @@
+[
+	{
+		"_id": 1,
+		"name": "Susan Peck",
+		"role": "Marketer",
+		"age": 26,
+		"gender": "Female"
+	},
+	{
+		"_id": 2,
+		"name": "Elijah Eyo",
+		"role": "Team Lead",
+		"age": 24,
+		"gender": "Male"
+	},
+	{
+		"_id": 3,
+		"name": "James Peters",
+		"role": "Digital Analyst",
+		"age": 24,
+		"gender": "male"
+	}
+]
